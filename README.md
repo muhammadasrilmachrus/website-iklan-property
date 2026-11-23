@@ -1,6 +1,6 @@
 # iklan-properti
 
-Project ini dibuat oleh Setup Manual TampilKit Studio dari paket resmi.
+Project ini dibuat oleh M.asril.m
 
 ## Struktur
 
